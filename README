@@ -8,5 +8,17 @@ A speaker reading long text using Google Translate
 gjspeak : For japanese
 gespeak : For English
 
+Feature :
+	. Speaking in no matter how long sentences
+	 (Breathing in "." And ",")
+
+Requires : 
+	. Python 2.7
+	. mpg321
+	. curl
+
+Environment :
+	. Ubuntu 13.04 x64
+
 See also : http://zirrusc.hatenablog.com/entry/2013/05/06/180455
 
