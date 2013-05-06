@@ -38,12 +38,6 @@ def speak(argtext = ""):
 		else:
 			i = 1
 			while i < len(sys.argv):
-				"""
-				print "source : " + source
-				print "argv : ",
-				print sys.argv
-				print "i : " + str(i)
-				"""
 				source += sys.argv[i] + " "
 				i += 1
 	else:
